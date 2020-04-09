@@ -1,0 +1,4 @@
+#开关
+On: false
+#玩家存款低于Limit时，禁止转账
+Limit: 100

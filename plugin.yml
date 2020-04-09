@@ -1,0 +1,5 @@
+name: MoneyTransferProhibition
+main: pers.Tomoto.MoneyTransferProhibition.MoneyTransferProhibition
+version: 1.0.0
+author: Tomoto
+softdepend: [Essentials]
